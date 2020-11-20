@@ -1,29 +1,45 @@
-Ôªø# Module 13: Encrypting and Decrypting Data
-## Lesson 1: Implementing Symmetric Encryption
+# Module 13: Encrypting and Decrypting Data
+
+## Exercise 1: Encrypting the Grades Report
+
 ### Nombres y apellidos:
-Miguel √Ångel Cabrero Luengo
+
+Miguel ¡ngel Cabrero Luengo
+
 ### Fecha:
+
 01/11/2020
+
 ### Resumen del Ejercicio:
 
 #### Objetivo del ejercicio:
+
 - Cifrar un texto dado una cadena que sirva de clave
 
 #### Tareas realizadas:
 
-- A√±adir el c√≥digo para llamar servicios de cifrado
+- AÒadir el cÛdigo para llamar servicios de cifrado
 
-Resultados de ejecuci√≥n:
+Resultados de ejecuciÛn:
 
-#### Inicio de aplicaci√≥n, introducir clave y texto para cifrar:
+#### Resultado de crear certificado:
+
 <img src="img/01.png">
 
-#### Cifrado realizado correctamente:
+#### Acceso a la aplicaciÛn:
+
 <img src="img/02.png">
 
-#### Resultado del cifrado:
+#### Acceso a perfil de un alumno:
+
 <img src="img/03.png">
 
-### Dificultad o problemas presentados y c√≥mo se resolvieron:
+#### Resultado del cifrado:
+
+<img src="img/04.png">
+
+
+### Dificultad o problemas presentados y cÛmo se resolvieron:
+
 No se encontraron problemas.
 

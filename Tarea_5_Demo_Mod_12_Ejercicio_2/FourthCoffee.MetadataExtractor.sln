@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourthCoffee.MetaDataExtractor", "FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor.csproj", "{1AD56852-3AD8-440B-A7A2-36A883B6D7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourthCoffee.Core", "FourthCoffee.Core\FourthCoffee.Core.csproj", "{0CCC12F2-FD9A-4089-8504-EF0CAA173E7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B1520AB9-F611-4A9D-B82C-9A61D91E7F76}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD56852-3AD8-440B-A7A2-36A883B6D7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD56852-3AD8-440B-A7A2-36A883B6D7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD56852-3AD8-440B-A7A2-36A883B6D7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD56852-3AD8-440B-A7A2-36A883B6D7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CCC12F2-FD9A-4089-8504-EF0CAA173E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCC12F2-FD9A-4089-8504-EF0CAA173E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCC12F2-FD9A-4089-8504-EF0CAA173E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCC12F2-FD9A-4089-8504-EF0CAA173E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {907159F8-09D7-4249-9292-B62841CEAEF6}
+	EndGlobalSection
+EndGlobal
